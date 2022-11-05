@@ -1,0 +1,19 @@
+.insidediv1{
+    float: left;
+    background-color: gray;
+}
+
+ul {
+    width: 950px;
+    margin-left: 400px;
+}
+
+li {
+   float: left;
+  width: 200px;
+   text-align: center;
+   height:100px;
+    padding-top: 30px;
+    list-style: none;
+    color: white;
+    }
